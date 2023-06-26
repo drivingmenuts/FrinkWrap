@@ -1,2 +1,2 @@
 # FrinkWrap
-A wrapper around the excellent Drink Java application
+A wrapper around the excellent Frink Java application
